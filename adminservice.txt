@@ -1,6 +1,6 @@
 add and remove users
 change the roles
 manage the database
-closing the connection
+closing the mysql connection
 change 1
 change 2 in siddharth's database
